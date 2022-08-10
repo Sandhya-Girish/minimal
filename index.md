@@ -5,7 +5,7 @@
 
 **Technology :** EDA Techniques - Data Cleaning, Univariate Analysis, Segmented Univariate Analysis, Bivariate Anlaysis, Correlation Matrix, Multivariate Analysis
 
-[Link to Github]([./another-page.html](https://github.com/Sandhya-Girish/LendingClubCaseStudy))
+[Link to Github](https://github.com/Sandhya-Girish/LendingClubCaseStudy)
 
 ---
 ### Bike Sharing Assignment 
@@ -13,7 +13,7 @@
 
 **Technology :** EDA Techniques, Multiple Linear Regression using Bottom-up & Top-down approaches
 
-[Link to Github]([./another-page.html](https://github.com/Sandhya-Girish/Bike-Sharing-Assignment))
+[Link to Github](https://github.com/Sandhya-Girish/Bike-Sharing-Assignment)
 
 ---
 ### Advance Regression
@@ -21,7 +21,7 @@
 
 **Technology :** EDA Techniques - Data Cleaning, Outlier Treatment, Correlation Matrix, Categorical data processing using dummies, Linear Regression using RFE, Ridge Regression, Lasso Regression, 
 
-[Link to Github]([./another-page.html](https://github.com/Sandhya-Girish/Assignment-Advance-Regression))
+[Link to Github](https://github.com/Sandhya-Girish/Assignment-Advance-Regression)
 
 ---
 Another Project
