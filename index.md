@@ -42,6 +42,21 @@
 
 ---
 ###Gesture Recognition 
+**Objective :** You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote. Each gesture corresponds to a specific command:
+
+1. Thumbs up:  Increase the volume 2. Thumbs down: Decrease the volume 3. Left swipe: 'Jump' backwards 10 seconds 4. Right swipe: 'Jump' forward 10 seconds  
+5. Stop: Pause the movie
+
+This should be done by using the CNN/RNN architectures
+
+**Technology :** CNN + RNN Architecture, 3D Convolutional Network, Generators, Transfer Learning, Image Processing
+
+[Link to Github]
+
+---
+Syntactic Processing - NLP
+**Objective :**
+
 
 layout: default
 ---
