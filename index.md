@@ -30,10 +30,11 @@
 **Technology :** EDA Techniques, Data Visualization, Outlier Treatment, PCA, Logistic Regression, Logistic Regression with Hyperparameter Tuning, Decision Trees with Hyperpameter Tuning, Random Forest with Hyperparameter Tuning
 
 [Link to Kaggle](https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon-c34/overview)
+
 [Link to Github]
 
 ---
-###Melanoma Detection
+### Melanoma Detection
 **Objective :** There is a need to build a multiclass classification model using a custom convolutional neural network in TensorFlow.Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis. This model can help in early detection of Melanoma.
 
 **Technology :** EDA Techniques, Data Visualization, CNN Model building with appropriate optimizer & loss function, Data Augmentation, Handling class imbalances, Final CNN Model builing
@@ -41,10 +42,13 @@
 [Link to Github](https://github.com/Sandhya-Girish/Melanoma-Detection-Assignment)
 
 ---
-###Gesture Recognition 
+### Gesture Recognition 
 **Objective :** You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote. Each gesture corresponds to a specific command:
 
-1. Thumbs up:  Increase the volume 2. Thumbs down: Decrease the volume 3. Left swipe: 'Jump' backwards 10 seconds 4. Right swipe: 'Jump' forward 10 seconds  
+1. Thumbs up:  Increase the volume 
+2. Thumbs down: Decrease the volume 
+3. Left swipe: 'Jump' backwards 10 seconds 
+4. Right swipe: 'Jump' forward 10 seconds  
 5. Stop: Pause the movie
 
 This should be done by using the CNN/RNN architectures
@@ -54,7 +58,7 @@ This should be done by using the CNN/RNN architectures
 [Link to Github]
 
 ---
-Syntactic Processing - NLP
+### Syntactic Processing - NLP
 **Objective :**
 
 
