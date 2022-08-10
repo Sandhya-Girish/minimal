@@ -5,7 +5,7 @@
 
 **Technology :** EDA Techniques - Data Cleaning, Univariate Analysis, Segmented Univariate Analysis, Bivariate Anlaysis, Correlation Matrix, Multivariate Analysis
 
-[Link to Github](https://github.com/Sandhya-Girish/LendingClubCaseStudy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sandhya-Girish/LendingClubCaseStudy)
 
 ---
 ### Bike Sharing Assignment 
