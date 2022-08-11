@@ -13,7 +13,7 @@
 
 **Technology :** EDA Techniques, Multiple Linear Regression using Bottom-up & Top-down approaches
 
-[Link to Github](https://github.com/Sandhya-Girish/Bike-Sharing-Assignment)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sandhya-Girish/Bike-Sharing-Assignment)
 
 ---
 ### Advance Regression
@@ -21,8 +21,7 @@
 
 **Technology :** EDA Techniques - Data Cleaning, Outlier Treatment, Correlation Matrix, Categorical data processing using dummies, Linear Regression using RFE, Ridge Regression, Lasso Regression, 
 
-[Link to Github](https://github.com/Sandhya-Girish/Assignment-Advance-Regression)
-
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sandhya-Girish/Assignment-Advance-Regression)
 ---
 ### Telecom Churn Prediction - Kaggle Competition
 **Objective :** In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another.To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, customer-level data of a leading telecom firm is analyzed and predictive models arebuild to identify customers at high risk of churn.
@@ -39,7 +38,7 @@
 
 **Technology :** EDA Techniques, Data Visualization, CNN Model building with appropriate optimizer & loss function, Data Augmentation, Handling class imbalances, Final CNN Model builing
 
-[Link to Github](https://github.com/Sandhya-Girish/Melanoma-Detection-Assignment)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]( https://github.com/Sandhya-Girish/Melanoma-Detection-Assignment)
 
 ---
 ### Gesture Recognition 
